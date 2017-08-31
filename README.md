@@ -1,6 +1,6 @@
-# recallmethod
-# U-net
-**U-net example by keras**
+# recall-method
+#
+**Call-method example by python**
 
 Credit Card Fraud Detection is about the [Anonymized credit card transactions labeled as fraudulent or genuine](https://www.kaggle.com/dalpozz/creditcardfraud).
 
