@@ -1,6 +1,6 @@
-Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers (Part VII)
+[Credit Card Fraud Detection using Autoencoders in Keras — TensorFlow for Hackers (Part VII)](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
+)
 
-https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
 
 The following is about the Autoencoder by keras and tensorflow 
 
